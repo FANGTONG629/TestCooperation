@@ -3,3 +3,6 @@
 0:41我先在manB里修改功能块，再加进main
 
 0:46main里看到了修改的manB，在main里修改这个文件，本地文件夹里pull下来的会是这个gotomanb吗
+
+0:50真的从main里pull进manB了，用 git pull origin main:manB
+
