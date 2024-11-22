@@ -6,3 +6,5 @@
 
 0:50真的从main里pull进manB了，用 git pull origin main:manB
 
+1123我觉得真是曹乐大爷辣，tortoiseGIT真是邪门玩意根本不如全裸git，我今天用tortoiseGIT失败了，我懵逼了到底为啥连我电脑端口都找不到
+
