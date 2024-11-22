@@ -4,5 +4,5 @@
 
 0:46main里看到了修改的manB，在main里修改这个文件，本地文件夹里pull下来的会是这个gotomanb吗
 
-0:50真的从main里pull进manB了，用 git pull origin main:manB
+我觉得真是曹乐大爷辣，tortoiseGIT真是邪门玩意根本不如全裸git，我今天用tortoiseGIT失败了，我懵逼了到底为啥连我电脑端口都找不到
 
